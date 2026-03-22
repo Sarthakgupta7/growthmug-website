@@ -1612,7 +1612,7 @@ const Contact = () => {
               {loading ? "Sending... ☕" : "Get My Free Marketing Audit →"}
             </Btn>
             <p style={{ fontFamily: "'DM Sans', sans-serif", fontSize: 12, color: C.creamFaint, textAlign: "center", marginTop: 12 }}>
-              📧 Sends to muggrowth@gmail.com · Auto-reply sent to you instantly
+              📧 Sends to muggrowth@gmail.com · 
             </p>
           </div>
         )}
