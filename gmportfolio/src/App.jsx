@@ -1626,7 +1626,7 @@ const Contact = () => {
               💬 Chat on WhatsApp
             </Btn>
             <Btn variant="ghost" size="md"
-              onClick={() => window.open("https://instagram.com/growthmug", "_blank")}>
+              onClick={() => window.open("https://instagram.com/muggrowth", "_blank")}>
               📸 Follow on Instagram
             </Btn>
           </div>
@@ -1668,7 +1668,7 @@ const Footer = () => {
             <p style={{ fontFamily: "'DM Sans', sans-serif", fontSize: 12, color: C.orange, letterSpacing: "2px", textTransform: "uppercase", fontWeight: 700, marginBottom: 16 }}>Connect</p>
             <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
               {[
-                { label: "📸 Instagram", href: "https://instagram.com/growthmug" },
+                { label: "📸 Instagram", href: "https://instagram.com/muggrowth" },
                 { label: "💬 WhatsApp", href: "https://wa.me/918445201080" },
                 { label: "💼 LinkedIn", href: "#" },
                 { label: "📧 hello@growthmug.in", href: "mailto:hello@growthmug.in" },
